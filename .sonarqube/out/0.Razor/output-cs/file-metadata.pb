@@ -1,0 +1,9 @@
+v
+kC:\Users\yash.k\source\repos\ANetCoreProject\ANetCoreProject\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.csutf-8v
+kC:\Users\yash.k\source\repos\ANetCoreProject\ANetCoreProject\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.csutf-8x
+mC:\Users\yash.k\source\repos\ANetCoreProject\ANetCoreProject\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.csutf-8
+tC:\Users\yash.k\source\repos\ANetCoreProject\ANetCoreProject\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.csutf-8’
+†C:\Users\yash.k\source\repos\ANetCoreProject\ANetCoreProject\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.csutf-8}
+rC:\Users\yash.k\source\repos\ANetCoreProject\ANetCoreProject\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.csutf-8{
+pC:\Users\yash.k\source\repos\ANetCoreProject\ANetCoreProject\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.csutf-8ƒ
+xC:\Users\yash.k\source\repos\ANetCoreProject\ANetCoreProject\obj\Debug\net5.0\ANetCoreProject.RazorTargetAssemblyInfo.csutf-8
