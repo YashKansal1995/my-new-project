@@ -15,6 +15,7 @@ namespace ANetCoreProject
         {
             CreateHostBuilder(args).Build().Run();
             Console.WriteLine("Hello World");
+            Console.WriteLine("Git Check");
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
